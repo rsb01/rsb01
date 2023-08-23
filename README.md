@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @rsb01
-- 👀 I’m interested in Writing Stories, Photography
-- 🌱 I’m currently Studying B.Tech (CSE)
-- 📫 How to reach me urkanni@gmail.com
+-  Hi there👋
+- This is the place where I opensource stuff and break things
+- I'm Currently learning AI, ML and Block Chain
+- Ask me Anything related to WebDevlopment/Python/Java/C/CPP/CSS/HTML/JavaScript/TypeScript
+- How to Reach Me : @miryala1
+- Fun Fact : I wanted to be an Author
