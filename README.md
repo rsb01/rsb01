@@ -1,6 +1,5 @@
 -  Hi there👋
-- This is the place where I opensource stuff and break things
 - I'm Currently learning AI, ML and Block Chain
-- Ask me Anything related to WebDevlopment/Python/Java/C/CPP/CSS/HTML/JavaScript/TypeScript
+- Ask me Anything related to WebDevlopment/Python/Java/C/CPP/CSS/HTML/JavaScript/MarkDown
 - How to Reach Me : @rsb01
-- Fun Fact : I wanted to be an Author👀  
+- Email : m.rsb12@outlook.com
