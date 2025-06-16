@@ -1,4 +1,3 @@
 -  Hi there👋
-- I'm Currently learning AI, ML and Block Chain
-- Ask me Anything related to WebDevlopment/Python/Java/C/CPP/CSS/HTML/JavaScript/SQL/NLP
+- Ask me Anything related to Python/Java/C/CPP/CSS/HTML/JavaScript/SQL/NLP
 - Email : m.rsb12@outlook.com
